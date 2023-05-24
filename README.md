@@ -21,7 +21,7 @@ docker-compose up
 then, you will see apache airflow cms page.
 
 
-<img src="./csm.png">
+<img src="./screenshot/csm.png">
 
 
 
